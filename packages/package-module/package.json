@@ -5,6 +5,7 @@
   "author": "Alvaro <alvaro.saburido@gmail.com>",
   "homepage": "",
   "license": "ISC",
+  "private": true,
   "main": "dist/package-module.js",
   "module": "dist/package-module.module.js",
   "directories": {
