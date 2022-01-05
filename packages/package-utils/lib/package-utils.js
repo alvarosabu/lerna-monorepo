@@ -18,7 +18,10 @@ function packageUtils() {
     .replace(/^-+/, '') // Trim - from start of text
     .replace(/-+$/, '')
 
+    const isArray = (a) => !!a && a.constructor === Array
+
     return {
-        slugify
+        slugify,
+        isArray
     }
 }
