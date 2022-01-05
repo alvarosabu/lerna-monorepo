@@ -1,0 +1,19 @@
+{
+  "name": "@alvarosabu/package-ui",
+  "version": "1.0.0",
+  "description": "UI components",
+  "author": "Alvaro <alvaro.saburido@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/package-ui.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
